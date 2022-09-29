@@ -1,0 +1,10 @@
+.resources__link {
+	display: flex;
+	justify-content: space-evenly;
+}
+	
+.resources__link:hover{
+	transition: ease-in 0.6s;
+	opacity: 0.6;
+}
+	
